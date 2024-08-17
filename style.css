@@ -1,0 +1,22 @@
+body{
+    color:black;
+}
+h1{
+color: darkblue;
+text-align: center;
+font-family:Courier;
+}
+body{
+    font-family:Comic Sans MS;
+    background-image: url(https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&w=600);
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-color: skyblue;
+    
+}
+body {
+border: 1px solid black;
+padding: 40px;
+}
